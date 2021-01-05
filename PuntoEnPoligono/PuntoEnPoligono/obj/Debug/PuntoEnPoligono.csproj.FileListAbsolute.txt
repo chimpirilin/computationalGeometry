@@ -1,0 +1,9 @@
+c:\users\thrashans\documents\visual studio 2015\Projects\PuntoEnPoligono\PuntoEnPoligono\bin\Debug\PuntoEnPoligono.exe.config
+c:\users\thrashans\documents\visual studio 2015\Projects\PuntoEnPoligono\PuntoEnPoligono\bin\Debug\PuntoEnPoligono.exe
+c:\users\thrashans\documents\visual studio 2015\Projects\PuntoEnPoligono\PuntoEnPoligono\bin\Debug\PuntoEnPoligono.pdb
+c:\users\thrashans\documents\visual studio 2015\Projects\PuntoEnPoligono\PuntoEnPoligono\obj\Debug\PuntoEnPoligono.csprojResolveAssemblyReference.cache
+c:\users\thrashans\documents\visual studio 2015\Projects\PuntoEnPoligono\PuntoEnPoligono\obj\Debug\PuntoEnPoligono.Form1.resources
+c:\users\thrashans\documents\visual studio 2015\Projects\PuntoEnPoligono\PuntoEnPoligono\obj\Debug\PuntoEnPoligono.Properties.Resources.resources
+c:\users\thrashans\documents\visual studio 2015\Projects\PuntoEnPoligono\PuntoEnPoligono\obj\Debug\PuntoEnPoligono.csproj.GenerateResource.Cache
+c:\users\thrashans\documents\visual studio 2015\Projects\PuntoEnPoligono\PuntoEnPoligono\obj\Debug\PuntoEnPoligono.exe
+c:\users\thrashans\documents\visual studio 2015\Projects\PuntoEnPoligono\PuntoEnPoligono\obj\Debug\PuntoEnPoligono.pdb

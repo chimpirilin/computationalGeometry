@@ -1,0 +1,9 @@
+c:\users\thrashans\documents\visual studio 2015\Projects\Cierre Convexo\Cierre Convexo\bin\Debug\Cierre Convexo.exe.config
+c:\users\thrashans\documents\visual studio 2015\Projects\Cierre Convexo\Cierre Convexo\bin\Debug\Cierre Convexo.exe
+c:\users\thrashans\documents\visual studio 2015\Projects\Cierre Convexo\Cierre Convexo\bin\Debug\Cierre Convexo.pdb
+c:\users\thrashans\documents\visual studio 2015\Projects\Cierre Convexo\Cierre Convexo\obj\Debug\Cierre Convexo.csprojResolveAssemblyReference.cache
+c:\users\thrashans\documents\visual studio 2015\Projects\Cierre Convexo\Cierre Convexo\obj\Debug\Cierre_Convexo.Form1.resources
+c:\users\thrashans\documents\visual studio 2015\Projects\Cierre Convexo\Cierre Convexo\obj\Debug\Cierre_Convexo.Properties.Resources.resources
+c:\users\thrashans\documents\visual studio 2015\Projects\Cierre Convexo\Cierre Convexo\obj\Debug\Cierre Convexo.csproj.GenerateResource.Cache
+c:\users\thrashans\documents\visual studio 2015\Projects\Cierre Convexo\Cierre Convexo\obj\Debug\Cierre Convexo.exe
+c:\users\thrashans\documents\visual studio 2015\Projects\Cierre Convexo\Cierre Convexo\obj\Debug\Cierre Convexo.pdb

@@ -1,0 +1,8 @@
+c:\users\thrashans\documents\visual studio 2015\Projects\TriangulacionEarClipping\TriangulacionEarClipping\bin\Debug\TriangulacionEarClipping.exe.config
+C:\Users\Thrashans\Documents\Visual Studio 2015\Projects\TriangulacionEarClipping\TriangulacionEarClipping\bin\Debug\TriangulacionEarClipping.exe
+C:\Users\Thrashans\Documents\Visual Studio 2015\Projects\TriangulacionEarClipping\TriangulacionEarClipping\bin\Debug\TriangulacionEarClipping.pdb
+C:\Users\Thrashans\Documents\Visual Studio 2015\Projects\TriangulacionEarClipping\TriangulacionEarClipping\obj\Debug\TriangulacionEarClipping.Form1.resources
+C:\Users\Thrashans\Documents\Visual Studio 2015\Projects\TriangulacionEarClipping\TriangulacionEarClipping\obj\Debug\TriangulacionEarClipping.Properties.Resources.resources
+C:\Users\Thrashans\Documents\Visual Studio 2015\Projects\TriangulacionEarClipping\TriangulacionEarClipping\obj\Debug\TriangulacionEarClipping.csproj.GenerateResource.Cache
+C:\Users\Thrashans\Documents\Visual Studio 2015\Projects\TriangulacionEarClipping\TriangulacionEarClipping\obj\Debug\TriangulacionEarClipping.exe
+C:\Users\Thrashans\Documents\Visual Studio 2015\Projects\TriangulacionEarClipping\TriangulacionEarClipping\obj\Debug\TriangulacionEarClipping.pdb

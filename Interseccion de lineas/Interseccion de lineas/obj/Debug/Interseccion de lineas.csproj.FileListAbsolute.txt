@@ -1,0 +1,9 @@
+c:\users\thrashans\documents\visual studio 2015\Projects\Interseccion de lineas\Interseccion de lineas\bin\Debug\Interseccion de lineas.exe.config
+C:\Users\Thrashans\documents\visual studio 2015\Projects\Interseccion de lineas\Interseccion de lineas\obj\Debug\Interseccion de lineas.csprojResolveAssemblyReference.cache
+C:\Users\Thrashans\documents\visual studio 2015\Projects\Interseccion de lineas\Interseccion de lineas\obj\Debug\Interseccion_de_lineas.Form1.resources
+C:\Users\Thrashans\documents\visual studio 2015\Projects\Interseccion de lineas\Interseccion de lineas\obj\Debug\Interseccion_de_lineas.Properties.Resources.resources
+C:\Users\Thrashans\documents\visual studio 2015\Projects\Interseccion de lineas\Interseccion de lineas\obj\Debug\Interseccion de lineas.csproj.GenerateResource.Cache
+C:\Users\Thrashans\documents\visual studio 2015\Projects\Interseccion de lineas\Interseccion de lineas\bin\Debug\Interseccion de lineas.exe
+C:\Users\Thrashans\documents\visual studio 2015\Projects\Interseccion de lineas\Interseccion de lineas\bin\Debug\Interseccion de lineas.pdb
+C:\Users\Thrashans\documents\visual studio 2015\Projects\Interseccion de lineas\Interseccion de lineas\obj\Debug\Interseccion de lineas.exe
+C:\Users\Thrashans\documents\visual studio 2015\Projects\Interseccion de lineas\Interseccion de lineas\obj\Debug\Interseccion de lineas.pdb
